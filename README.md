@@ -2,7 +2,7 @@
 
 App created during the Next Level Week #2 by [Rockseat](https://rocketseat.com.br/) (thanks Rocketseat! :) )
 
-**Proffy is an app that connect teachers with people that want to learn something.**
+**Proffy is an app that connects teachers with people that want to learn something.**
 
 The parts of the app are:
 - An app where people can find available teachers *(Built with React Native)*
